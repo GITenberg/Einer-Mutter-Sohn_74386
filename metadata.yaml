@@ -1,0 +1,41 @@
+_repo: Einer-Mutter-Sohn_74386
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Köster, Karl
+    gutenberg_agent_id: '57482'
+    url: http://www.gutenberg.org/2009/agents/57482
+creator:
+  author:
+    agent_name: Viebig, Clara
+    aliases:
+    - Cohn, Clara Viebig
+    - Viebig, Klara
+    - Fibich, Klara
+    - Cohn-Viebig, Clara
+    - Viebig, C. (Clara)
+    birthdate: 1860
+    deathdate: 1952
+    gutenberg_agent_id: '34774'
+    url: http://www.gutenberg.org/2009/agents/34774
+    wikipedia: http://de.wikipedia.org/wiki/Clara_Viebig
+description: ''
+gutenberg_issued: '2024-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74386'
+language: de
+pgterms:marc904: https://archive.org/details/einermuttersohnr00vieb
+pgterms:marc905: 20220129043810viebig
+pgterms:marc906: '1911'
+pgterms:marc907: de
+production_note: Peter Becker, Martin Oswald and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aBerlin :$bEgon Fleischel, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Einer Mutter Sohn
+url: http://www.gutenberg.org/ebooks/74386
