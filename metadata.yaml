@@ -5,6 +5,9 @@ contributor:
     agent_name: Köster, Karl
     gutenberg_agent_id: '57482'
     url: http://www.gutenberg.org/2009/agents/57482
+covers:
+- cover_type: archival
+  image_path: 74386-h/images/cover.jpg
 creator:
   author:
     agent_name: Viebig, Clara
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34774
     wikipedia: http://de.wikipedia.org/wiki/Clara_Viebig
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74386#Einer-Mutter-Sohn
 gutenberg_issued: '2024-09-07'
 gutenberg_type: Text
 identifiers:
